@@ -1,0 +1,6 @@
+age,medical_specialty,recommended_treatment,primary_diagnosis,icd_code,original_specialty
+23,Allergy / Immunology,"Zyrtec or loratadine, Nasonex nasal spray",Allergic rhinitis,J30.9,Allergy / Immunology
+41,Orthopedic,,Right Achilles tendon rupture,S86.009A,Orthopedic
+30,Bariatrics,,Morbid obesity,E66.9,Bariatrics
+50,Cardiovascular / Pulmonary,,Airway obstruction secondary to severe subglottic tracheal stenosis with foreign body in the trachea,R69,Cardiovascular / Pulmonary
+66,Urology,,Benign prostatic hypertrophy,R69,Urology
