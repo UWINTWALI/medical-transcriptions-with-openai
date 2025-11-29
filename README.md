@@ -17,12 +17,12 @@ Clinical transcriptions contain valuable information about patients' age, primar
 - Speciality-aware ICD-10 mappings for more accurate code suggestions.
 - Rate-limiting delay and error handling in the notebook to keep things robust during batch processing.
 
-## Tech Stack & Tools (human-friendly)
+## Tech Stack & Tools
 - Python: The language used for the notebook and scripts.
 - Pandas: For reading and writing CSV files and managing tables of data.
 - Jupyter Notebook: The interactive environment (`notebook.ipynb`) 
 
-## Getting started (quick and friendly)
+## Getting started
 1. Install Python (3.8+ recommended).
 2. Create and activate a virtual environment (optional but recommended):
 
